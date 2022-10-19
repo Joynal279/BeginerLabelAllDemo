@@ -16,7 +16,10 @@ struct Linear_Radial_Angular_GradientsView: View {
                     //LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing)
                     
                     //radial gradient
-                    RadialGradient(gradient: Gradient(colors: [Color.red, Color.green, Color.yellow]), center: .center, startRadius: 5, endRadius: 500)
+                    //RadialGradient(gradient: Gradient(colors: [Color.red, Color.green, Color.yellow]), center: .center, startRadius: 5, endRadius: 500)
+                    
+                    //Angular gradient
+                    AngularGradient(gradient: Gradient(colors: [Color.red, Color.green, Color.yellow]), center: .center, angle: .degrees(45))
                     
                 )
                 .frame(width: 300, height: 200)
