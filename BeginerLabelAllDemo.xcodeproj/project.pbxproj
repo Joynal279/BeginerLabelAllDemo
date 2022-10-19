@@ -12,6 +12,9 @@
 		F2E3FC3129005C6D00897261 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2E3FC3029005C6D00897261 /* Assets.xcassets */; };
 		F2E3FC3429005C6D00897261 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2E3FC3329005C6D00897261 /* Preview Assets.xcassets */; };
 		F2E3FC3B2900606C00897261 /* AddTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC3A2900606C00897261 /* AddTextView.swift */; };
+		F2E3FC3D2900667C00897261 /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC3C2900667C00897261 /* ShapesView.swift */; };
+		F2E3FC3F290067AE00897261 /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC3E290067AE00897261 /* ColorsView.swift */; };
+		F2E3FC412900765400897261 /* Linear_Radial_Angular_GradientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC402900765400897261 /* Linear_Radial_Angular_GradientsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +24,9 @@
 		F2E3FC3029005C6D00897261 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2E3FC3329005C6D00897261 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2E3FC3A2900606C00897261 /* AddTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTextView.swift; sourceTree = "<group>"; };
+		F2E3FC3C2900667C00897261 /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
+		F2E3FC3E290067AE00897261 /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
+		F2E3FC402900765400897261 /* Linear_Radial_Angular_GradientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Linear_Radial_Angular_GradientsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				F2E3FC3029005C6D00897261 /* Assets.xcassets */,
 				F2E3FC3229005C6D00897261 /* Preview Content */,
 				F2E3FC3A2900606C00897261 /* AddTextView.swift */,
+				F2E3FC3C2900667C00897261 /* ShapesView.swift */,
+				F2E3FC3E290067AE00897261 /* ColorsView.swift */,
+				F2E3FC402900765400897261 /* Linear_Radial_Angular_GradientsView.swift */,
 			);
 			path = BeginerLabelAllDemo;
 			sourceTree = "<group>";
@@ -142,6 +151,9 @@
 			files = (
 				F2E3FC2F29005C6B00897261 /* ContentView.swift in Sources */,
 				F2E3FC3B2900606C00897261 /* AddTextView.swift in Sources */,
+				F2E3FC3F290067AE00897261 /* ColorsView.swift in Sources */,
+				F2E3FC412900765400897261 /* Linear_Radial_Angular_GradientsView.swift in Sources */,
+				F2E3FC3D2900667C00897261 /* ShapesView.swift in Sources */,
 				F2E3FC2D29005C6B00897261 /* BeginerLabelAllDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
