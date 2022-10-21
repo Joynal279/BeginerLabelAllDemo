@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F2B876F329025F1B0043D747 /* AddingButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B876F229025F1B0043D747 /* AddingButtonView.swift */; };
 		F2E3FC2D29005C6B00897261 /* BeginerLabelAllDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC2C29005C6B00897261 /* BeginerLabelAllDemoApp.swift */; };
 		F2E3FC2F29005C6B00897261 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E3FC2E29005C6B00897261 /* ContentView.swift */; };
 		F2E3FC3129005C6D00897261 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2E3FC3029005C6D00897261 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F2B876F229025F1B0043D747 /* AddingButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingButtonView.swift; sourceTree = "<group>"; };
 		F2E3FC2929005C6B00897261 /* BeginerLabelAllDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeginerLabelAllDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E3FC2C29005C6B00897261 /* BeginerLabelAllDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeginerLabelAllDemoApp.swift; sourceTree = "<group>"; };
 		F2E3FC2E29005C6B00897261 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				F2E3FC3C2900667C00897261 /* ShapesView.swift */,
 				F2E3FC3E290067AE00897261 /* ColorsView.swift */,
 				F2E3FC402900765400897261 /* Linear_Radial_Angular_GradientsView.swift */,
+				F2B876F229025F1B0043D747 /* AddingButtonView.swift */,
 			);
 			path = BeginerLabelAllDemo;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				F2E3FC412900765400897261 /* Linear_Radial_Angular_GradientsView.swift in Sources */,
 				F2E3FC3D2900667C00897261 /* ShapesView.swift in Sources */,
 				F2E3FC2D29005C6B00897261 /* BeginerLabelAllDemoApp.swift in Sources */,
+				F2B876F329025F1B0043D747 /* AddingButtonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
