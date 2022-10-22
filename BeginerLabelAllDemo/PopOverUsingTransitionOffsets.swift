@@ -26,7 +26,7 @@ struct PopOverUsingTransitionOffsets: View {
                 }
                 //Method_1_Sheet
                 .sheet(isPresented: $showSheet) {
-                    AnotherScreen()
+                    //AnotherScreen()
                 }
                 
                 //Mehtod_2_Transition
