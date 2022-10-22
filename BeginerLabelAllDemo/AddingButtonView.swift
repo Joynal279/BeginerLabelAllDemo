@@ -11,6 +11,8 @@ struct AddingButtonView: View {
     
     @State var title = "Here is my title"
     
+    @State var background = Color.yellow
+    
     var body: some View {
         VStack {
             Text(title)
@@ -23,6 +25,7 @@ struct AddingButtonView: View {
             //button_2
             Button {
                 self.title = "Button Number #2 pressed"
+                self.background = Color.gray
             } label: {
                 Text("Button".uppercased())
                     .font(.headline)
